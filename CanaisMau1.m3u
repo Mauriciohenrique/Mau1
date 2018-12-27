@@ -1,0 +1,114 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://bit.ly/maucanais1" group-title="TABELA", NOME DO CANAL
+http://0.0.0.0
+ 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images1.folha.com.br/livraria/images/b/0/1204606-350x360.png" group-title="VER TV",Todo mundo odeia o Cris
+http://apk26.futeboltvgratis.com/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT 1 HD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT 1 HD
+http://goldiptv.ml/GNTHD/mpegts?token=hUqQfk3go1
+
+
+#EXTINF:-1 group-title="Canais esportes",Combate 1
+http://tv.factoryiptv.com:80/live/2231/2231/37119.ts
+ 
+#EXTINF:-1 tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" group-title="BONUS(leo)", Comedy Central 2
+http://177.139.171.102:27030/live/alvaro/17/202.ts
+
+#EXTINF:-1 group-title="Canais",E!1 Entertainment Television
+http://tv.factoryiptv.com:80/live/2231/2231/37108.ts
+
+#EXTINF:-1 group-title="Canais",E!2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36920.ts
+
+#EXTINF:-1 group-title="Canais",GNT 2FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41484.ts
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839816129778487296/NQRyFRJB_400x400.jpg" tvg-id="0" group-title="CANAIS",HISTORY 1
+http://tv.factoryiptv.com:80/live/2020/2020/37081.ts
+
+#EXTINF:-1 tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentral 1Logo.jpg" tvg-id="0" group-title="CANAIS",COMED CENTRAL 3
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37118.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" tvg-id="0" group-title="CANAIS",FOX SPORTS 1
+http://177.139.171.102:27030/live/alvaro/17/141.ts
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/2883/ELCOSD.png" group-title="",COMEDY CENTRAL 4
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/849.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/205/TD6Xfa.png" group-title="",GNT 3
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/829.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7383/cdxPqr.png" group-title=",E! HD
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/1635.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7383/cdxPqr.png" group-title=",E!
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/632.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/1584/YDIWzr.png" group-title="",DISCOVERY HOME & HEALTH HD
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/656.m3u8
+
+#EXTINF:-1 tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" group-title="BONUS(leo)", Comedy Central
+http://177.139.171.102:27030/live/alvaro/17/202.ts 
+
+#EXTINF:-1 tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" group-title="BONUS(leo)",    Sbt
+http://177.139.171.102:27030/live/alvaro/17/12.ts
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/1443/wC9ZSn.png" group-title="",COMBATE
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/4197/ZZzp1s.png" group-title="",PREMIER 2
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/4741.m3u8
+
+#EXTINF:-1 tvg-id="TV Escola" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" group-title=" documentarios full hd(leo)"HISTORY 3
+http://50.7.186.123:8081/live/30/chunks.m3u8?nimblesessionid=5742253&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxOCAxOjI5OjA2IFBNJmhhc2hfdmFsdWU9REViNFB3TisycGpXTHNsdEI0VE9RQT09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49Nw==
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH 1 HD
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/656.m3u8
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH 2
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/1054.m3u8
+
+#EXTINF:-1,TELECINE FUN
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/1047.m3u8
+
+#EXTINF:-1,|US| HBO Family FHD
+http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6510.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5366/LrbADN.png" group-title="",MULTISHOW
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/37070.
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/1963/6t5OgZ.png" group-title="",SPACE
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/zenaide6.ts
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/7985/yI03yO.png" group-title="",SPORTV 
+   http://tv.factoryiptv.com:80/live/zenaide/zenaide/37256.ts
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2071/H9AeyP.png" group-title="",STUDIO UNIVERSAL
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/zenaide3.ts
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6627/60PE6M.png" group-title="",TELECINE ACTION 
+   http://tv.factoryiptv.com:80/live/zenaide/zenaide/zenaide0.ts
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/2719/9ztsS9.png" group-title="",TELECINE PREMIUM Premium
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/36994.ts
+
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1762/OgasxS.png" group-title="",TNT SERIES
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/37034.ts
+
+
+ #EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/2238/p5HyeS.png" group-title="",TNT
+    http://tv.factoryiptv.com:80/live/zenaide/zenaide/37035.ts
+
+
